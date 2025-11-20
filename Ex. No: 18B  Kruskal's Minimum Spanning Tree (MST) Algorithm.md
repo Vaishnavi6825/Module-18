@@ -20,8 +20,8 @@ To write a Python program for **Kruskal's algorithm** to find the Minimum Spanni
 ## PYTHON PROGRAM
 
 ```
-# 212223060073
-# Gowri Sankari R
+# 212222060121
+# Kiruthika M
 
 from collections import defaultdict
 class Graph:
