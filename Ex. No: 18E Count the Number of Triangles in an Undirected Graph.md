@@ -1,7 +1,7 @@
 # Ex. No: 18E - Count the Number of Triangles in an Undirected Graph
 
 ## AIM:
-To write a Python program to **count the number of triangles** present in an **undirected graph** using matrix operations.
+To write a Python program to **count the number of triangles** present in an **undirected graph** using matrix operations. 
 
 ## ALGORITHM:
 
