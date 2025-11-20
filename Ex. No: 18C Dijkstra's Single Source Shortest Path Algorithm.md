@@ -21,8 +21,8 @@ Create a `sptSet[]` array (shortest path tree set) to keep track of vertices who
 ## PYTHON PROGRAM
 
 ```
-# 212223060073
-# Gowri Sankari R
+# 212222060121
+# Kiruthika M
 import sys
 class Graph():
 	def __init__(self, vertices):
